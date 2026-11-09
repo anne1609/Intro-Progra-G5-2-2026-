@@ -1,0 +1,13 @@
+# Ignorar archivos compilados
+*.class
+
+# Archivos de BlueJ
+*.ctxt
+package.bluej
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Otros
+*.log
